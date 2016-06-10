@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 *.pickle
 *.tar.gz
+Andy/notMNIST_large/*
+Andy/notMNIST_small/*
