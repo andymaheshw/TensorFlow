@@ -1,4 +1,4 @@
-# Databricks notebook source exported at Thu, 17 Nov 2016 19:30:03 UTC
+# Databricks notebook source exported at Thu, 17 Nov 2016 19:32:52 UTC
 # MAGIC %md Deep Learning
 # MAGIC =============
 # MAGIC 
